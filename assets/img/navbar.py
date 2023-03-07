@@ -14,7 +14,7 @@ def create_navbar():
             "Resume"
         ], href='/page-3', className='nav-button'),
         html.A([
-            "NBA Bets Dashboard"
+            "Dashboards"
         ], href='/page-3', className='nav-button'),
         html.A([
             "Contact"
